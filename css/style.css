@@ -847,9 +847,9 @@
     width: 16px;
     height: 16px;
     background: #d50037;
-    left: 0%;
+    left: 100%;
     top: 0%;
-    transform: translate(2040%, 0%);
+    transform: translate(0%, 0%);
 }
 
 .menu_wrap .slider .inner {
